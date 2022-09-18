@@ -5,6 +5,12 @@
 5. Haz npm run build
 6. Listo, ahora puedes instalar con npm install path/a/esta/carpeta o subirlo a npm.
 
-Chao pescao
+Chao pescao.
+
+
+Para importarlo después en tu app puedes hacer
+
+import 'vue-2to3/dist/library.css'
+import { TuComponente } from 'vue-2to3'
 
 Atentamente Flair. /GoFlair
