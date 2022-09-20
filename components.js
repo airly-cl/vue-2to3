@@ -1,3 +1,3 @@
-import TimePicker from './src/TimePicker.vue'
+import ComponentOne from './src/ComponentOne.vue'
 
-export default { TimePicker }
+export default { ComponentOne }
